@@ -1,6 +1,6 @@
 # QBaG (Question Bank Generator) Backend
 
-_This project serves as backend for [QBaG frontend](https://github.com/Team-Executables/qbag-frontend)._
+_This project serves as backend for [QBaG frontend](https://github.com/heyanurag/qbag-frontend)._
 
 _Question Bank Generator uses a crowd sourcing model to prepare question banks from a large pool of objective questions. QBaG provides an interface for paper setters and academicians to generate reliable question papers using our automated and robust system. The questions can be selected based on a range of parameters and can be exported to your desired format within minutes. Each question contributed is passed through a number of checks and is also vetted by experts._
 
@@ -8,9 +8,9 @@ _Question Bank Generator uses a crowd sourcing model to prepare question banks f
 
 **Link to the website:** [https://qbag.netlify.app/](https://qbag.netlify.app/)
 <br/>
-**Link to frontend repo:** [https://github.com/Team-Executables/qbag-frontend](https://github.com/Team-Executables/qbag-frontend)
+**Link to frontend repo:** [https://github.com/heyanurag/qbag-frontend](https://github.com/heyanurag/qbag-frontend)
 <br/>
-**Link to project presentation:** [Question Bank Generator.pdf](https://github.com/Team-Executables/qbag-frontend/blob/main/Question%20Bank%20Generator.pdf)
+**Link to project presentation:** [Question Bank Generator.pdf](https://github.com/heyanurag/qbag-frontend/blob/main/Question%20Bank%20Generator.pdf)
 
 <br/>
 
